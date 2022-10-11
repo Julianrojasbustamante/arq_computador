@@ -195,6 +195,16 @@ Un registro definido por la instrucción contiene la dirección en memoria donde
 
 ![Imgur](https://i.imgur.com/LGmjH3z.png)
 
+
+### CONCLUSIONES
+
+-	El algoritmo de alto nivel permite determinar si un numero se primó basado en el set de instrucciones requeridas para el lenguaje de máquina.
+-	A medida que el número va creciendo es más complejo validarse si el número es primo, por tal motivo el código nos va a hacer más útil para poder detectar rápidamente.
+-	Se pudieron evidenciar las diferencias de los tipos de instrucción y aplicabilidad de cada uno.
+-	Se realizó la validación de todas las entradas y salidas para lograr interpretar el lenguaje de la maquina en el ALU ensamblado en Logisim.
+-	Las instrucciones permitieron identificar los modos de direccionamiento que aplican para el problema planteado, poniendo en práctica lo aprendido en lo corrido del módulo.
+
+
 ### REFERENCIAS BIBLIOGRÁFICAS
 
 - Marker, G. (2020, marzo 22). Pseudocódigo: ¿Qué es? Ejemplos. Tecnología + Informática; Tecnología+Informatica. http://www.tecnologia-informatica.com/pseudocodigo/
